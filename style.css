@@ -1,0 +1,85 @@
+body{
+    max-width: 80%;
+    margin-left: 10%;
+}
+.navbar{
+    max-width: 98%;
+    border-radius: 10px;
+}
+.bcgrnd{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.bcgrnd1{
+    background-color: #feeae9;
+    border-radius: 10px;
+    padding: 60px;
+}
+.slide{
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-weight: 700;
+    text-decoration: none;
+}
+.imgs{
+    max-width: 100%;
+}
+.price{
+    color: #FF136F;
+}
+.col-md-7{
+    padding: 20px 40px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories{
+    margin: 100px 0px;
+}
+.categories img{
+    max-width: 30%;
+}
+.g-4{
+    padding-bottom: 50px;
+    margin: 5px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#shoes, #backpack{
+    padding-left: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.bags{
+    padding-bottom: 20px;
+}
+input{
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+    padding-top: 20px;
+}
